@@ -14,11 +14,11 @@ Then get stl file from:
 https://en.wikipedia.org/wiki/Menger_sponge
 ### PyMesh library
 https://pymesh.readthedocs.io
-### pymesh examples
+### PyMesh examples
 https://github.com/gaoyue17/PyMesh/tree/master/python/pymesh
-### result of 4th iteration sponge
+### Result of 4th iteration sponge
 ![result](./images/menger_sponge_4.png)
-### performance
+### Performance
 Computer specifications  
 ```
 Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz (4 cores)
