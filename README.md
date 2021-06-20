@@ -1,7 +1,7 @@
 # Menger sponge
 3d fractal generator pymesh stl python script  
 Change depth variable to set iteration level
-### instruction
+### Instruction
 To compute 2th iteration sponge, run:
 ```
 sh run.sh 2
