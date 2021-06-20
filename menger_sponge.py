@@ -64,5 +64,5 @@ mesh_fractal = pymesh.boolean(mesh_fractal, sponge_u, operation=operation, engin
 
 # save
 log('saving..')
-pymesh.save_mesh("menger_sponge_"+depth+".stl", mesh_fractal, ascii=False)
+pymesh.save_mesh("menger_sponge_"+str(depth)+".stl", mesh_fractal, ascii=False)
 log('job complete')
