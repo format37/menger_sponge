@@ -16,8 +16,6 @@ https://en.wikipedia.org/wiki/Menger_sponge
 https://pymesh.readthedocs.io
 ### PyMesh examples
 https://github.com/gaoyue17/PyMesh/tree/master/python/pymesh
-### Result of 4th iteration sponge
-![result](./images/menger_sponge_4.png)
 ### Performance
 Computer specifications  
 ```
@@ -38,6 +36,7 @@ Ubuntu 20
 2021.06.20 10:47:33 saving..
 2021.06.20 10:47:33 job complete
 ```
+![result](./images/menger_sponge_3.png)
 4th iteration. 72.7 MB stl file
 ```
 2021.06.20 10:53:26 0/4 iteration
@@ -55,3 +54,4 @@ Ubuntu 20
 2021.06.20 12:36:12 saving..
 2021.06.20 12:36:19 job complete
 ```
+![result](./images/menger_sponge_4.png)
