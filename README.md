@@ -7,10 +7,12 @@ https://en.wikipedia.org/wiki/Menger_sponge
 https://pymesh.readthedocs.io
 ### pymesh examples
 https://github.com/gaoyue17/PyMesh/tree/master/python/pymesh
+### result of 4th iteration sponge
+![result](./images/menger_sponge_4.png)
 ### performance
 Computer specifications  
 ```
-Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz
+Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz (4 cores)
 39 GB RAM (17 used)
 Ubuntu 20
 ```
@@ -44,5 +46,3 @@ Ubuntu 20
 2021.06.20 12:36:12 saving..
 2021.06.20 12:36:19 job complete
 ```
-### result of 4th iteration sponge
-![result](./images/menger_sponge_4.png)
