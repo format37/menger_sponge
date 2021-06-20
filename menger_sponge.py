@@ -5,8 +5,6 @@ import datetime
 
 depth = 4
 
-# https://github.com/gaoyue17/PyMesh/tree/master/python/pymesh
-
 def mesh_trans(mesh, x, y, z):
     return pymesh.form_mesh(mesh.vertices + [[x, y, z]], mesh.faces)
 
