@@ -7,3 +7,4 @@ https://pymesh.readthedocs.io
 ### pymesh examples
 https://github.com/gaoyue17/PyMesh/tree/master/python/pymesh
 ### result
+![result](./images/menger_sponge_4.png)
