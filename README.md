@@ -1,6 +1,15 @@
 # Menger sponge
 3d fractal generator pymesh stl python script  
 Change depth variable to set iteration level
+### instruction
+To compute 2th iteration sponge, run:
+```
+sh run.sh 2
+```
+Then get stl file from:
+```
+./portal/
+```
 ### Menger sponge fractal
 https://en.wikipedia.org/wiki/Menger_sponge
 ### PyMesh library
