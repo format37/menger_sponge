@@ -1,5 +1,5 @@
 # Menger sponge
-fractal generator pymesh stl python
+3d fractal generator pymesh stl python
 ### Menger sponge fractal
 https://en.wikipedia.org/wiki/Menger_sponge
 ### PyMesh library
