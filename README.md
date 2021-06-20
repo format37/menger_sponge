@@ -23,7 +23,8 @@ Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz (4 cores)
 39 GB RAM (17 used)
 Ubuntu 20
 ```
-3th iteration. 4 MB stl file
+3th iteration. 4 MB stl file  
+![result](./images/menger_sponge_3.png)
 ```
 2021.06.20 10:44:48 sponge a generation complete
 2021.06.20 10:44:48 rotate b
@@ -36,8 +37,8 @@ Ubuntu 20
 2021.06.20 10:47:33 saving..
 2021.06.20 10:47:33 job complete
 ```
-![result](./images/menger_sponge_3.png)  
-4th iteration. 72.7 MB stl file
+4th iteration. 72.7 MB stl file  
+![result](./images/menger_sponge_4.png)
 ```
 2021.06.20 10:53:26 0/4 iteration
 2021.06.20 10:53:26 1/4 iteration
@@ -54,4 +55,3 @@ Ubuntu 20
 2021.06.20 12:36:12 saving..
 2021.06.20 12:36:19 job complete
 ```
-![result](./images/menger_sponge_4.png)  
