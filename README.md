@@ -4,8 +4,13 @@ Change depth variable to set iteration level
 ### Instruction
 To compute 2th iteration sponge, run:
 ```
-sh run.sh 2
+sh run.sh 2 1
 ```
+To continue interrupted generation of 3th iteration sponge at x == 4 (get x from filename of last saved stl u have):
+```
+sh run.sh 3 4
+```
+
 Then get stl file from:
 ```
 ./portal/
