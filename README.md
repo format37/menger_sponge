@@ -2,6 +2,10 @@
 3d fractal generator pymesh stl python script  
 Change depth variable to set iteration level
 ### Instruction
+```
+sh run.sh depth x
+```
+For example:  
 To compute 2th iteration sponge, run:
 ```
 sh run.sh 2 1
@@ -10,7 +14,6 @@ To continue interrupted generation of 3th iteration sponge at x == 4 (get x from
 ```
 sh run.sh 3 4
 ```
-
 Then get stl file from:
 ```
 ./portal/
